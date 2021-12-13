@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Kevin Cheong, server/HPC engineer.
 - 👀 I’m interested in Arduino & Raspberry Pi for personal MAKER projects.
+- I'm also interested in collaboration between my personal interests and professional work (server hardware developer) :)
 - 📫 How to reach me ...
 email: crazydoc@gmail.com 
 Blog: http://crazydoc.tistory.com
